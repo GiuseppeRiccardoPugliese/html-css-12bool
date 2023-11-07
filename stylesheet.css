@@ -1,0 +1,23 @@
+/* debug */
+[class*="col-"] {
+    background-color: #006cfa;
+    border: 1px solid white;
+    padding: 15px;
+    text-align: center;
+}
+
+.container {
+    max-width: 100%;
+}
+
+span {
+    color: white;
+}
+
+.nested {
+    background-color: #00e165;
+}
+
+.space {
+    margin: 1rem 0;
+}
