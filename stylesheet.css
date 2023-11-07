@@ -2,7 +2,14 @@
     border: 1px solid white;
     padding: 15px;
     text-align: center;
+    min-height: 50px;
     background-color: #006cfa;
+}
+
+.nested {
+    background-color: #00e165;
+    padding: 15px;
+    border: 1px solid #006cfa;
 }
 
 .container {
@@ -11,10 +18,7 @@
 
 span {
     color: white;
-}
-
-.nested {
-    background-color: #00e165;
+    display: block;
 }
 
 .space {
